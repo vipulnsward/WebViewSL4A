@@ -1,0 +1,9 @@
+
+A Template enclosing Webview in sl4a example from 
+
+http://www.robertocolistete.net/Python/Android/WebViewTemplate.html 
+
+The main script is located over at res -> raw -> sript
+
+This project does not much for now, but just is a dummy WebView example.
+
